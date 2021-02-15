@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SashaBasile :)
+- 👋 Hi, I’m Sasha :)
 - 👀 I’m interested in Web & Software Development
 - 🌱 I’m currently learning Java and mobile-first design.
 - 💞️ I’m looking to collaborate on Front-End Development projects
